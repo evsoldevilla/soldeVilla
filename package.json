@@ -1,0 +1,24 @@
+{
+  "name": "soldevilla",
+  "version": "1.0.0",
+  "description": "This is an online selling site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "EdsonVS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evsoldevilla/soldeVilla.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evsoldevilla/soldeVilla/issues"
+  },
+  "homepage": "https://github.com/evsoldevilla/soldeVilla#readme"
+}
